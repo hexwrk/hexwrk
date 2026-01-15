@@ -51,11 +51,6 @@ Dashboard for parsing and analyzing security logs to identify threat patterns
 - **Tech:** Python, Pandas, ELK Stack, Kibana
 - **Features:** Pattern recognition, threat intelligence, automated reporting
 
-### 📈 GitHub Stats
-
-![Tristan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hexwrk&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hexwrk&layout=compact&theme=radical)
 
 ### 🎓 Certifications & Training
 - 🏆 TryHackMe: Active learner - Security Operations path
