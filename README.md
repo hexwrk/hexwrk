@@ -10,7 +10,7 @@ I'm a 3rd-year BSc IT student at Richfield Graduate Institute of Technology, spe
 -  Exploring machine learning applications in cybersecurity
 -  Active on TryHackMe and Hack The Box platforms
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 ```
