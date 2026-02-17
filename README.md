@@ -4,6 +4,8 @@
 
 I'm a 3rd-year BSc IT student at Richfield Graduate Institute of Technology, specializing in **cybersecurity** and **data analytics**. I'm passionate about building tools that make systems more secure and data more actionable.
 
+[![GitPage](https://hexwrk.github.io/)
+
 ###  Current Focus
 -  Developing security analysis tools and threat detection systems
 - Building data visualization dashboards for security operations
