@@ -32,22 +32,25 @@ SQL     █████████████░░░░░░░  65%
 - Version Control: `Git` `GitHub`
 - Scripting: `PowerShell` `Bash`
 
-###  Featured Projects
+### Featured Projects
 
-#### [AI Code Review Assistant](https://github.com/hexwrk/ai-code-reviewer)
-Automated code quality analysis tool that integrates with Git hooks to provide real-time feedback
-- **Tech:** Python, OpenAI API, pytest, pre-commit
-- **Features:** Security vulnerability detection, code style enforcement, automated suggestions
+#### [Security Pre-Commit Scanner](https://github.com/hexwrk/security-pre-commit-scanner)
+Lightweight Git pre-commit hook that blocks insecure Python code before it reaches your repo
 
-#### [System Monitor with ML Predictions](https://github.com/hexwrk/ml-system-monitor)
-Real-time infrastructure monitoring with machine learning-based anomaly detection
-- **Tech:** Python, Prometheus, Grafana, scikit-learn
-- **Features:** Predictive alerts, resource optimization, custom dashboards
+- **Tech:** Python, regex pattern matching, Git hooks, YAML config
+- **Features:** Hardcoded secret detection, SQL injection flagging, unsafe command execution detection, weak cryptography identification
 
-#### [Security Log Analyzer](https://github.com/hexwrk/security-log-analyzer)
-Dashboard for parsing and analyzing security logs to identify threat patterns
-- **Tech:** Python, Pandas, ELK Stack, Kibana
-- **Features:** Pattern recognition, threat intelligence, automated reporting
+#### [AutoTublify](https://github.com/hexwrk/AutoTublify)
+Autonomous Chrome extension that generates YouTube video summaries
+
+- **Tech:** JavaScript, Chrome Extension API
+- **Features:** Automated video summarization, browser-native integration
+
+#### [GuideWise](https://github.com/hexwrk/guidewise)
+Marketing landing page for an educational platform offering smart study guides
+
+- **Tech:** HTML, CSS
+- **Features:** Responsive hero layout, service showcase, lead capture
 
 
 ### Certifications & Training
