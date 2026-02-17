@@ -23,12 +23,10 @@ SQL     █████████████░░░░░░░  65%
 **Cybersecurity Tools**
 - Network Analysis: `Nmap` `Metasploit` `Wireshark`
 - Security Operations: `Burp Suite` `OWASP ZAP` `Nikto`
-- SIEM & Logging: `ELK Stack` `Splunk`
 
 **Data Analytics**
 - Libraries: `NumPy` `Pandas` `Matplotlib` `Seaborn`
-- Visualization: `Plotly` `Tableau`
-- ML Frameworks: `scikit-learn` `TensorFlow`
+- Visualization: `Plotly` 
 
 **DevOps & Tools**
 - Version Control: `Git` `GitHub`
