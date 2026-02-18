@@ -14,14 +14,6 @@ I'm a 3rd-year BSc IT student at Richfield Graduate Institute of Technology, spe
 
 ###  Tech Stack
 
-**Languages**
-```
-Python
-C++
-Bash
-SQL
-```
-
 **Cybersecurity Tools**
 - Network Analysis: `Nmap` `Metasploit` `Wireshark`
 - Security Operations: `Burp Suite` `OWASP ZAP` `Nikto`
