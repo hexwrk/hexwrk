@@ -16,10 +16,10 @@ I'm a 3rd-year BSc IT student at Richfield Graduate Institute of Technology, spe
 
 **Languages**
 ```
-Python  ████████████████████░  95%
-C++     ███████████████░░░░░  75%
-Bash    ██████████████░░░░░░  70%
-SQL     █████████████░░░░░░░  65%
+Python
+C++
+Bash
+SQL
 ```
 
 **Cybersecurity Tools**
