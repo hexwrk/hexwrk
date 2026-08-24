@@ -1,7 +1,9 @@
-<!-- ===== ANIMATED HEADER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:f85149&height=200&section=header&text=hexwrk&fontColor=f85149&fontSize=72&fontAlignY=38&animation=fadeIn&desc=offensive%20tooling%20%2F%2F%20detection%20engineering%20%2F%2F%20data&descAlignY=58&descSize=16&descAlign=50" width="100%"/>
-
 <div align="center">
+
+[![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=60&duration=2500&pause=1000&color=F85149&center=true&vCenter=true&width=900&height=120&lines=hexwrk)](https://hexwrk.github.io/)
+
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F85149&center=true&vCenter=true&width=680&lines=3rd-Year+BSc+IT+%7C+Cybersecurity+%26+Data+Analytics;Building+tools+that+make+systems+more+secure;OSCP-bound+%7C+HTB%3A+hexwrk+%7C+THM%3A+Furios;Learning+by+doing)](https://hexwrk.github.io/)
 
