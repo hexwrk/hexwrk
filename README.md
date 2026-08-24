@@ -1,5 +1,5 @@
 <!-- ===== ANIMATED HEADER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:f85149&height=200&section=header&text=hexwrk&fontColor=f85149&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%26%20Data%20Analytics&descAlignY=58&descSize=18&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:f85149&height=200&section=header&text=hexwrk&fontColor=f85149&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%26%20Data%20Analytics&descAlignY=58&descSize=18&descAlign=50&_c=1" width="100%"/>
 
 <div align="center">
 
