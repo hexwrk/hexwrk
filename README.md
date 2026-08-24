@@ -56,13 +56,13 @@
 Git pre-commit hook that blocks insecure code before it reaches history. **V2** pairs fast regex pre-filtering with a local **Ollama / qwen2.5-coder:14b** triage layer to cut false positives, so hardcoded secrets, SQL injection, unsafe command execution, and weak crypto get flagged without the noise. Multi-language `rules.yaml`, index-aware staged-file reads via `git show :<path>`, `SCANNER_AI_TRIAGE` env toggle.
 `Python` · `Ollama` · `Git hooks` · `YAML`
 
-**[AutoTublify](https://github.com/hexwrk/AutoTublify)**
-Autonomous Chrome extension that generates YouTube video summaries via the Extension API.
-`JavaScript` · `Chrome Extension API`
+**[Devlog](https://github.com/hexwrk/devlog)**
+DevLog is a local-first desktop task manager for IT, computer science, and cybersecurity students. It combines a fast task board with skill progression, completion streaks, and a small RPG-style XP system. Your tasks stay in a local JSON file; there is no account, server, or analytics service.
+`Python` 
 
-**[GuideWise](https://github.com/hexwrk/guidewise)**
-Responsive marketing landing page for an educational platform.
-`HTML` · `CSS`
+**[Guardian](https://github.com/hexwrk/ai-review-platform)**
+Central repository for GitLab Duo custom agents that perform automated, multi-stage code review on merge requests across the group. The platform runs four agents in sequence inside a GitLab CI pipeline: a security reviewer, a fix implementer, a functionality tester, and a final verifier. Every agent is constrained to a narrow, explicit tool allow-list and none of them can merge or approve their own work — a human always makes the final merge decision.
+`Javascript` 
 
 ---
 
